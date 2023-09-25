@@ -22,7 +22,7 @@ debian
 ----
 # XSS Stored :
 
-XSS stored when add category in "/simple-expense-tracker-app/endpoint/add_category.php" 
+> Expense Tracker App v1 is vulnerable to Cross Site Scripting (XSS) via add category .
 
 # POC [debian]:
 
