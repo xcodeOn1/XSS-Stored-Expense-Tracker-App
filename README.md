@@ -22,7 +22,7 @@ debian
 ----
 # XSS Stored :
 
-> Expense Tracker App v1 is vulnerable to Cross Site Scripting (XSS) via add category .
+Expense Tracker App v1 is vulnerable to Cross Site Scripting (XSS) via add category .
 
 # POC [debian]:
 
